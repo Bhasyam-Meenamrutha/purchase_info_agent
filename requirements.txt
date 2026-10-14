@@ -1,0 +1,4 @@
+google-adk
+python-dotenv
+
+Create a Purchase Info Record for supplier SUP1001 and material MAT2001 for purchasing organization P1000. The price is INR 250 per unit, plant PL01, and planned delivery time is 7 days.
